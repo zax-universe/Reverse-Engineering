@@ -15,21 +15,6 @@
 
 ---
 
-## Daftar Isi
-
-- [Fitur Utama](#fitur-utama)
-- [Daftar CVE 2026](#daftar-cve-2026)
-- [Instalasi](#instalasi)
-- [Cara Penggunaan](#cara-penggunaan)
-- [Command Line Options](#command-line-options)
-- [Contoh Penggunaan](#contoh-penggunaan)
-- [Output Files](#output-files)
-- [Struktur Folder](#struktur-folder)
-- [Disclaimer](#disclaimer)
-- [License](#license)
-
----
-
 ## Daftar CVE 2026
 
 | CVE | Plugin | CVSS | Type |
@@ -41,9 +26,6 @@
 | CVE-2026-2631 | Datalogics Ecommerce | 9.1 | Auth Bypass |
 | CVE-2026-4021 | Contest Gallery | 8.1 | Admin Registration |
 | CVE-2026-1405 | Slider Future | 9.8 | File Upload RCE |
-
-| CVE | Plugin | CVSS | Type |
-|-----|--------|------|------|
 | CVE-2026-3657 | My Sticky Bar | 7.5 | SQL Injection |
 | CVE-2026-1581 | wpForo Forum | 7.5 | SQL Injection |
 | CVE-2026-5465 | Amelia Booking | 7.5 | IDOR |
@@ -51,8 +33,6 @@
 | CVE-2026-5425 | Social Photo Feed | 7.2 | Stored XSS |
 | CVE-2026-4896 | WCFM | 7.5 | IDOR |
 | CVE-2026-3666 | wpForo Forum | 8.1 | File Deletion |
-
-| CVE | Plugin | CVSS | Type |
 |-----|--------|------|------|
 | CVE-2026-3568 | MStore API | 4.3 | Privilege Escalation |
 | CVE-2026-3585 | Events Calendar | 6.5 | Path Traversal |
@@ -243,12 +223,3 @@ License
 MIT License - Copyright (c) 2026
 
 ---
-
-<div align="center">
-
-Made for Security Researchers & Penetration Testers
-
-⬆ Back to Top
-
-</div>
-```
