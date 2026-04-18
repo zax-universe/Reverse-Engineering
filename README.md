@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT-red)
 ![CVEs](https://img.shields.io/badge/CVEs-20+-orange)
 
-**Advanced WordPress Vulnerability Scanner & Exploitation Framework**
+**WordPress Vulnerability Scanner & Explosilit Framework**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/zax-universe/Reverse-Engineering)
 
@@ -15,7 +15,7 @@
 
 ---
 
-## Daftar CVE 2026
+## Daftar CVE
 
 | CVE | Plugin | CVSS | Type |
 |-----|--------|------|------|
